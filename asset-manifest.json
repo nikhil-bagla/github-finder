@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://nikhil-bagla.github.io/static/css/main.8d510b81.chunk.css",
-    "main.js": "https://nikhil-bagla.github.io/static/js/main.1122240f.chunk.js",
-    "main.js.map": "https://nikhil-bagla.github.io/static/js/main.1122240f.chunk.js.map",
-    "runtime-main.js": "https://nikhil-bagla.github.io/static/js/runtime-main.04d9343d.js",
-    "runtime-main.js.map": "https://nikhil-bagla.github.io/static/js/runtime-main.04d9343d.js.map",
-    "static/js/2.9d4e8b7d.chunk.js": "https://nikhil-bagla.github.io/static/js/2.9d4e8b7d.chunk.js",
-    "static/js/2.9d4e8b7d.chunk.js.map": "https://nikhil-bagla.github.io/static/js/2.9d4e8b7d.chunk.js.map",
-    "index.html": "https://nikhil-bagla.github.io/index.html",
-    "static/css/main.8d510b81.chunk.css.map": "https://nikhil-bagla.github.io/static/css/main.8d510b81.chunk.css.map",
-    "static/js/2.9d4e8b7d.chunk.js.LICENSE.txt": "https://nikhil-bagla.github.io/static/js/2.9d4e8b7d.chunk.js.LICENSE.txt"
+    "main.css": "https://nikhil-bagla.github.io/github-finder/static/css/main.8d510b81.chunk.css",
+    "main.js": "https://nikhil-bagla.github.io/github-finder/static/js/main.d2621e13.chunk.js",
+    "main.js.map": "https://nikhil-bagla.github.io/github-finder/static/js/main.d2621e13.chunk.js.map",
+    "runtime-main.js": "https://nikhil-bagla.github.io/github-finder/static/js/runtime-main.09b7e35e.js",
+    "runtime-main.js.map": "https://nikhil-bagla.github.io/github-finder/static/js/runtime-main.09b7e35e.js.map",
+    "static/js/2.9d4e8b7d.chunk.js": "https://nikhil-bagla.github.io/github-finder/static/js/2.9d4e8b7d.chunk.js",
+    "static/js/2.9d4e8b7d.chunk.js.map": "https://nikhil-bagla.github.io/github-finder/static/js/2.9d4e8b7d.chunk.js.map",
+    "index.html": "https://nikhil-bagla.github.io/github-finder/index.html",
+    "static/css/main.8d510b81.chunk.css.map": "https://nikhil-bagla.github.io/github-finder/static/css/main.8d510b81.chunk.css.map",
+    "static/js/2.9d4e8b7d.chunk.js.LICENSE.txt": "https://nikhil-bagla.github.io/github-finder/static/js/2.9d4e8b7d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.04d9343d.js",
+    "static/js/runtime-main.09b7e35e.js",
     "static/js/2.9d4e8b7d.chunk.js",
     "static/css/main.8d510b81.chunk.css",
-    "static/js/main.1122240f.chunk.js"
+    "static/js/main.d2621e13.chunk.js"
   ]
 }
